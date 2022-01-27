@@ -1,0 +1,92 @@
+fundo{
+    width: 100vw;
+    height: 100vh;
+    color: white;
+}
+.t1{
+    color:  #D6000D;
+    font-size: 40px;
+    position: absolute;
+    left: 35px;
+    top: 20px;
+    font-family:'Roboto', sans-serif;;
+}
+.y0{
+    font-size: 50px;
+    position: absolute;
+    left: 140px;
+    top: 01px;
+}
+.t2{
+    color: black;
+    font-size: 20px;
+    margin-right: 130px;
+    background-color: #aa00aa;
+}
+a{
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    left: 790px;
+    top: 30px;
+}
+.t4{
+    color: black;
+    font-size: 20px;
+    position: absolute;
+    left: 900px;
+}
+button{
+    width: 160px;
+    background-color:  #D6000D;
+    height: 30px;
+    border-radius: 10px;
+    color: white;
+    font-size: 17px;
+    text-align: center;
+    position: absolute;
+    left: 1000px;
+    top: 35px;
+}
+.t5{
+    color: black;
+    font-size: 23px;
+    position: absolute;
+    left: 750px;
+    top: 350px;
+}
+.t6{
+    color:  #D6000D;
+    font-size: 55px;
+    position: absolute;
+    top: 350px;
+    left: 730px;
+    font-family: 'Anton', sans-serif;
+}
+img{
+    position: absolute;
+    left: 120px;
+    top: 230px;
+}
+#y7{
+    background-color:  #D6000D;
+    width: 240px;
+    height: 30px;
+    text-align: center;
+    position: absolute;
+    top: 500px;
+    left: 800px;
+    border-radius: 10px;
+
+}
+.t2:hover,a:hover,.t4:hover{
+    color:   #D6000D;
+}
+.t0 button{
+position: absolute;
+top: 530px;
+left: 730px;
+width: 280px;
+height: 40px;
+border-radius: 10px;
+}
